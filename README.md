@@ -64,7 +64,7 @@
 <img src=https://github.com/WorkWithAdithya/Skin-Cancer-Detection-using-YOLOV8/blob/main/Final%20Images/contact%20page.png  width="1000" height="800">
 
 <h1>Mail message</h1>
-<img src=https://github.com/WorkWithAdithya/Skin-Cancer-Detection-using-YOLOV8/blob/main/Final%20Images/Mail%20page.png width="800" height="800">
+<img src=https://github.com/WorkWithAdithya/Skin-Cancer-Detection-using-YOLOV8/blob/main/Final%20Images/Mail%20page.png width="1000" height="800">
 
 <h1>Confusion Matrix</h1>
 <img src=https://github.com/WorkWithAdithya/Skin-Cancer-Detection-using-YOLOV8/blob/main/Final%20Images/Confusion%20matrix.png  width="500" height="500">
