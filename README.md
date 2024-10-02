@@ -85,4 +85,30 @@
 <h1>Graphical Representaion of accuracy comparision</h1>
 <img src=https://github.com/WorkWithAdithya/Skin-Cancer-Detection-using-YOLOV8/blob/main/Final%20Images/Accuracy%20acheived.png  width="1000" height="800">
 
+<h1>Requirements</h1>
+<li>Pycharm 2020</li>
+<li>Python 3.8</li>
+
+<h1>Installation steps</h1>
+<h1>Step 1:</h1>
+<p>Download YOLOV8m.pt</p>
+
+<h1>Step 2:</h1>
+<p>Install the following libraries</p>
+<li>Ultralytics</li>
+<li>Cuda</li>
+<li>LabelImg</li>
+<li>Python Tkinter</li>
+<li>Tensorflow</li>
+<li>Keras</li>
+<li>OS</li>
+<li>Shutil</li>
+<li>OpenCV2</li>
+<li>PIL</li>
+<li>Pillow</li>
+<li>Numpy</li>
+<li>Web-browser</li>
+<li>SMTPlib</li>
+<li>MIME</li>
+
 
