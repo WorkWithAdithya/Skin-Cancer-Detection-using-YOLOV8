@@ -88,6 +88,7 @@
 <h1>Requirements</h1>
 <li>Pycharm 2020</li>
 <li>Python 3.8</li>
+<li>Graphic card : min GTX 1650 (lower end laptops can take more time to run epochs)</li>
 
 <h1>Installation steps</h1>
 <h1>Step 1:</h1>
