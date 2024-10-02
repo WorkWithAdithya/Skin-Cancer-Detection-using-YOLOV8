@@ -67,19 +67,19 @@
 <img src=https://github.com/WorkWithAdithya/Skin-Cancer-Detection-using-YOLOV8/blob/main/Final%20Images/Mail%20page.png width="1000" height="800">
 
 <h1>Confusion Matrix</h1>
-<img src=https://github.com/WorkWithAdithya/Skin-Cancer-Detection-using-YOLOV8/blob/main/Final%20Images/Confusion%20matrix.png  width="500" height="500">
+<img src=https://github.com/WorkWithAdithya/Skin-Cancer-Detection-using-YOLOV8/blob/main/Final%20Images/Confusion%20matrix.png  width="700" height="500">
 
 <h1>F1-Confidence curve</h1>
-<img src=https://github.com/WorkWithAdithya/Skin-Cancer-Detection-using-YOLOV8/blob/main/Final%20Images/F1%20confidence%20curve.png width="500" height="500">
+<img src=https://github.com/WorkWithAdithya/Skin-Cancer-Detection-using-YOLOV8/blob/main/Final%20Images/F1%20confidence%20curve.png width="700" height="500">
 
 <h1>Precision-Confidence curve</h1>
-<img src=https://github.com/WorkWithAdithya/Skin-Cancer-Detection-using-YOLOV8/blob/main/Final%20Images/precision%20confidence.png  width="500" height="500">
+<img src=https://github.com/WorkWithAdithya/Skin-Cancer-Detection-using-YOLOV8/blob/main/Final%20Images/precision%20confidence.png  width="700" height="500">
 
 <h1>Precision-Recall curve</h1>
-<img src=https://github.com/WorkWithAdithya/Skin-Cancer-Detection-using-YOLOV8/blob/main/Final%20Images/precision%20recall.png  width="500" height="500">
+<img src=https://github.com/WorkWithAdithya/Skin-Cancer-Detection-using-YOLOV8/blob/main/Final%20Images/precision%20recall.png  width="700" height="500">
 
 <h1>Recall-Confidence curve</h1>
-<img src=https://github.com/WorkWithAdithya/Skin-Cancer-Detection-using-YOLOV8/blob/main/Final%20Images/recall%20confidence.png  width="500" height="500">
+<img src=https://github.com/WorkWithAdithya/Skin-Cancer-Detection-using-YOLOV8/blob/main/Final%20Images/recall%20confidence.png  width="700" height="500">
 
 
 <h1>Graphical Representaion of accuracy comparision</h1>
