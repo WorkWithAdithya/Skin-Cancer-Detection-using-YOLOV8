@@ -1,0 +1,9 @@
+train:  D:\FinalProject\MelanomaDetection\dataset\Train
+val: D:\FinalProject\MelanomaDetection\dataset\Val
+
+nc: 3
+names: ["Melanoma","Nevus","Seborrehic keratosis"]
+
+
+
+

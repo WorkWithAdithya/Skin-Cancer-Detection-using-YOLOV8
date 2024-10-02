@@ -1,0 +1,205 @@
+Name:ravi email:ravishkumarkl@gmail.com  predicted Disease is:Melanoma
+Name:ravi email:ravishkumarkl@gmail.com  predicted Disease is:Melanoma
+Name:ravi email:ravishkumarkl@gmail.com  predicted Disease is:Melanoma
+Name:ravi email:ravishkumarkl@gmail.com  predicted Disease is:Melanoma
+Name:ravi email:ravishkumarkl@gmail.com  predicted Disease is:Melanoma
+Name:ravi email:ravishkumarkl@gmail.com  predicted Disease is:Melanoma
+Name:amrutha email:amruthavm.kedilaya@gmail.com  predicted Disease is:Melanoma
+Name:amrutha email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus
+Name:amrutha  email:amruthavm.kedilaya@gmail.com  predicted Disease is:Keratoses
+Name:amrutha email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:uyuia email:amruthavm.kedilaya@gmail.com  predicted Disease is:Keratoses
+Name:uyuia email:amruthavm.kedilaya@gmail.com  predicted Disease is:Keratoses
+Name:dd email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus
+Name:dd email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus
+Name:amruttha email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:sasd email:amruthavm.kedilaya@gmail.com  predicted Disease is:Keratoses
+Name:sasd email:amruthavm.kedilaya@gmail.com  predicted Disease is:Keratoses
+Name:sasd email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:sasd email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:sasd email:amruthavm.kedilaya@gmail.com  predicted Disease is:Melanoma
+Name:amrutha  email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus
+Name:munni email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:munni email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:Melanoma
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:Keratoses
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:Melanoma
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:Melanoma
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:Melanoma
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:Keratoses
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:Keratoses
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:Keratoses
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:Keratoses
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:Keratoses
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:hu email:amruthavm.kedilaya@gmail.com  predicted Disease is:Keratoses
+Name:asdfghj email:asdfgh@gmail.com  predicted Disease is:Keratoses
+Name:asdfghj email:asdfgh@gmail.com  predicted Disease is:Nevus
+Name:asdfghj email:asdfgh@gmail.com  predicted Disease is:Melanoma
+Name:fghjk email:dsfghj@gmail.com  predicted Disease is:Keratoses
+Name:fghjk email:dsfghj@gmail.com  predicted Disease is:Nevus
+Name:fghjk email:dsfghj@gmail.com  predicted Disease is:
+Name:fghjk email:dsfghj@gmail.com  predicted Disease is:
+Name:dfghj email:sdfghj@gmail.com  predicted Disease is:Keratoses
+Name:dfghj email:sdfghj@gmail.com  predicted Disease is:
+Name:dfghj email:sdfghj@gmail.com  predicted Disease is:
+Name:dfghj email:sdfghj@gmail.com  predicted Disease is:Nevus
+Name:dddd email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:amrutha email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:amrutha email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:amrutha email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:amrutha email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:amrutha email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:amrutha email:amruthavm.kedilaya@gmail.com  predicted Disease is:Melanoma
+Name:asdfghjk email:asdfghj@gmail.com  predicted Disease is:
+Name:asdfghjk email:asdfghj@gmail.com  predicted Disease is:Melanoma
+Name:asdfghjk email:asdfghj@gmail.com  predicted Disease is:
+Name:asdfghjk email:asdfghj@gmail.com  predicted Disease is:Melanoma
+Name:asdfghjk email:asdfghj@gmail.com  predicted Disease is:
+Name:asdfghjk email:asdfghj@gmail.com  predicted Disease is:Melanoma
+Name:asdfghjk email:asdfghj@gmail.com  predicted Disease is:
+Name:asdfghjk email:asdfghj@gmail.com  predicted Disease is:Melanoma
+Name:asdfghjk email:asdfghj@gmail.com  predicted Disease is:
+Name:asdfghjk email:asdfghj@gmail.com  predicted Disease is:Melanoma
+Name:asdfghjk email:asdfghj@gmail.com  predicted Disease is:Melanoma
+Name:asdfghjk email:asdfghj@gmail.com  predicted Disease is:
+Name:asdfghjk email:asdfghj@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:asdfghjk email:asdfghj@gmail.com  predicted Disease is:Melanoma
+Name:asdfghjk email:asdfghj@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:Melanoma
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:Keratoses (Non Melanoma)
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:Melanoma
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma)
+Name:asdfghjk email:amruthavm.kedilaya@gmail.com  predicted Disease is:Keratoses (Non Melanoma)
+Name:asdfghjk email:m.kedilaya@gmail.com  predicted Disease is:
+Name:asdfghjk email:m.kedilaya@gmail.com  predicted Disease is:Keratoses (Non Melanoma)
+Name:asdfghjk email:m.kedilaya@gmail.com  predicted Disease is:Keratoses (Non Melanoma)
+Name:asdfghjk email:m.kedilaya@gmail.com  predicted Disease is:Keratoses (Non Melanoma)
+Name:asdfghjk email:m.kedilaya@gmail.com  predicted Disease is:
+Name:asdfghjk email:m.kedilaya@gmail.com  predicted Disease is:Keratoses (Non Melanoma)
+Name:asdfghjk email:m.kedilaya@gmail.com  predicted Disease is:Keratoses (Non Melanoma)
+Name:asdfghjk email:m.kedilaya@gmail.com  predicted Disease is:Keratoses (Non Melanoma)
+Name:asdfghjk email:m.kedilaya@gmail.com  predicted Disease is:Keratoses (Non Melanoma)
+Name:asdfghjk email:m.kedilaya@gmail.com  predicted Disease is:Keratoses (Non Melanoma)
+Name:asdfghjk email:m.kedilaya@gmail.com  predicted Disease is:Keratoses (Non Melanoma)
+Name:asdfghjk email:m.kedilaya@gmail.com  predicted Disease is:Keratoses (Non Melanoma)
+Name:asdfghjk email:m.kedilaya@gmail.com  predicted Disease is:Keratoses (Non Melanoma)
+Name:asdfghjk email:m.kedilaya@gmail.com  predicted Disease is:Keratoses (Non Melanoma)
+Name:asdfghjk email:m.kedilaya@gmail.com  predicted Disease is:Keratoses (Non Melanoma)
+Name:asdfghjk email:m.kedilaya@gmail.com  predicted Disease is:Keratoses (Non Melanoma)
+Name:uuh email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:uuh email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:uuh email:amruthavm.kedilaya@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:gct email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Not a melanoma)
+Name:adi email:adithyabs288@gmail.com  predicted Disease is:
+Name:adi email:adithyabs288@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:adi email:adithyabs288@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:adi email:adithyabs288@gmail.com  predicted Disease is:Nevus (Not a melanoma)
+Name:adi email:adithyabs288@gmail.com  predicted Disease is:Keratoses(Not an melanoma)
+Name:nbgfdxz email:gfds@gmail.com  predicted Disease is:
+Name:nbgfdxz email:gfds@gmail.com  predicted Disease is:
+Name:nbgfdxz email:gfds@gmail.com  predicted Disease is:
+Name:jhgfd email:hgfd@gmail.com  predicted Disease is:Nevus (Not a melanoma)
+Name:dfklsihf email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:uygu email:rachanakoliwad55@gmail.com  predicted Disease is:Keratoses(Not an melanoma)
+Name:uygu email:rachanakoliwad55@gmail.com  predicted Disease is:
+Name:uygu email:rachanakoliwad55@gmail.com  predicted Disease is:Nevus (Not a melanoma)
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Not a melanoma)
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:aa email:amruthavm.kedilaya@gmail.com  predicted Disease is:Keratoses(Not a melanoma)
+Name:bh email:aishwaryqsomqshekqr1902@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:bh email:aishwaryasomashekar1902@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:bh email:aishwaryasomashekar1902@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:bh email:aishwaryasomashekar1902@gmail.com  predicted Disease is:
+Name:bh email:aishwaryasomashekar1902@gmail.com  predicted Disease is:Predicted as Melanoma please visit the doctor
+Name:bh email:aishwaryasomashekar1902@gmail.com  predicted Disease is:
+Name:amrutha email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:gfd email:trds@gmail.com  predicted Disease is:
+Name:gfd email:adithyabs288@gmail.com  predicted Disease is:
+Name:zasdfg email:adithyabs288@gmail.com  predicted Disease is:Melanoma detected as melonoma please visite the doctor
+Name:gfds email:adithyabs288@gmail.com  predicted Disease is:Nevus (Not a melanoma)
+Name:AMRUTHA email:amruthavm.kedilaya@gmail.com  predicted Disease is:Melanoma detected as melonoma please visite the doctor
+Name:AMRUTHA email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:zfdff email:amruthavm.kedilaya@gmail.com  predicted Disease is:Keratoses(Not an melanoma)
+Name:zfdff email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Not a melanoma)
+Name:zfdff email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Not a melanoma)
+Name:sdasd email:amruthavm.kedilaya@gmail.com  predicted Disease is:Keratoses(Not an melanoma)
+Name:sdasd email:amrm.kedilaya@gmail.com  predicted Disease is:Keratoses(Not an melanoma)
+Name:sdasd email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:sdasd email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:ammm email:amruthavm.kedilaya@gmail.com  predicted Disease is:Melanoma detected as melonoma please visite the doctor
+Name:sas email:amruthavm.kedilaya@gmail.com  predicted Disease is:Melanoma detected as melonoma please visite the doctor
+Name:amrutha email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:amrutha email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:amrutha email:amruthavm.kedilaya@gmail.com  predicted Disease is:Melanoma detected as melonoma please visite the doctor
+Name:amrutha email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Not a melanoma)
+Name:amrutha email:amruthavm.kedilaya@gmail.com  predicted Disease is:Keratoses(Not an melanoma)
+Name:hv email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:jh email:amruthavm.kedilaya@gmail.com  predicted Disease is:
+Name:jhgfds email:fds@gmail.com  predicted Disease is: Seborrehic Keratosis(Non Melanoma).
+Name:hgvfcxz email:adithyabs288@gmail.com  predicted Disease is: Seborrehic Keratosis(Non Melanoma).
+Name:kjhgfd email:adithyabs288@gmail.com  predicted Disease is: Seborrehic Keratosis(Non Melanoma).
+Name:amrutha email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma).
+Name:amrutha email:amruthavm.kedilaya@gmail.com  predicted Disease is: Seborrehic Keratosis(Non Melanoma).
+Name:amrutha email:amruthavm.kedilaya@gmail.com  predicted Disease is:Nevus (Non Melanoma).
+Name:rachana email:amruthavm.kedilaya@gmail.com  predicted Disease is: Seborrehic Keratosis(Non Melanoma).
