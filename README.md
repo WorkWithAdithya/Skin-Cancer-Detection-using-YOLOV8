@@ -13,7 +13,7 @@
 <li>Simple Mail Transfer Protocol : Simple Mail Transfer mechanism (SMTP) is a mechanism for exchanging email messages between servers. It is an essential component of the email communication process and operates at the application layer of the TCP/IP protocol stack.</li>
 
 
- <h1>Problem statemnt</h1>
+ <h1>Problem statement</h1>
  <p>The aim of the project is to detect the Melanoma Skin Cancer from dermoscopic images using Deep Learning CNN algorithm. Train and validate the model on a dataset of malignant melanomas and benign non-melanomas.  Evaluate its performance using metrics like F1 curve and precision, recall curves. Deploy the model as a user-friendly application for patients. Aim to enhance early detection and improve patient outcomes in melanoma diagnosis
 </p>
 
