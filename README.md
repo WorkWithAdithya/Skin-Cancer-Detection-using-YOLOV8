@@ -94,7 +94,7 @@
 <p>Download YOLOV8m.pt</p>
 
 <h1>Step 2:</h1>
-<p>Install the following libraries</p>
+<p>Install the following libraries/Packages</p>
 <li>Ultralytics</li>
 <li>Cuda</li>
 <li>LabelImg</li>
@@ -110,5 +110,28 @@
 <li>Web-browser</li>
 <li>SMTPlib</li>
 <li>MIME</li>
+
+<h1>Step 3:</h1>
+<p>Unzip the dataset folder containing images and set the file path in data_custom.yam folder </p>
+
+
+<h1>Step 4:</h1>
+<p>Run training.py file upto 30-50 epochs</p>
+
+<h1>Step 5:</h1>
+<p>On completion the trained model will be present in Runs->Detect->Train->Weights->best.pt </p>
+
+
+<h1>Step 5:</h1>
+<p>Copy that model and paste it in the main folder, rename it and change the value of "model" in index.py</p>
+
+<h1>Step 6:</h1>
+<p>Run index.py and detect your disease , the output will be present in the output folder</p>
+
+<h1>Feel free to contact me!</h1>
+<p>Name : Adithya BS</p>
+<p>Email : workwithadithya01@gmail.com</p>
+
+
 
 
